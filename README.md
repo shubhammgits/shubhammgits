@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Shubham, and I am currently in 2nd year of Btech (CSE). I have a strong interest in software development, particularly exploring new technologies.<br>I have experience in frontend web development and am currently expanding my skills in backend development.<br>Additionally, I possess a solid understanding of C++ programming language, with knowledge of its basic to intermediate concepts<br><br>Fun fact about me is that I barely attend 5-10 lectures in a semester, yet I score a 9 CGP haha!<br><br>
+Hey! Shubham this side, I am currently in 2nd year of Btech (CSE). I have a strong interest in software development, particularly exploring new technologies.<br>I have experience in frontend web development and am currently expanding my skills in backend development.<br>Additionally, I possess a solid understanding of C++ programming language, with knowledge of its basic to intermediate concepts<br><br>Fun fact about me is that I barely attend 5-10 lectures in a semester, yet I score a 9 CGP haha!<br><br>
 
 
 ## 🌐 Socials:
