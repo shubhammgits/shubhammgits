@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on enhancing my DSA skills alongside developing multiple projects.<br>I’m looking to collaborate on Project/Product development, hackathons, team building, and solving real-life problems.<br>I’m looking for help with AI Agents, Generative AI, RAG, LLMs, Machine Learning, and Language Training.<br>I’m currently learning DSA, AI/ML, Machine Learning, and Deep Learning.<br>Ask me about how I manage college studies along with tech projects, event management, college society collaborations, hackathon organizing, social media management & marketing, MERN stack, and DSA.<br>Fun fact about me is that I barely attend 8–10 lectures in a semester, yet still manage to maintain a 9 CGPA.
+I’m currently working on enhancing my DSA skills alongside developing multiple projects. I’m looking to collaborate on Project/Product development, hackathons, team building, and solving real-life problems. Also, I am looking for help with AI Agents, Generative AI, RAG, LLMs, Machine Learning, and Language Training .Currently I am learning AI/ML, Machine Learning, and Deep Learning. Fun fact about me is that I barely attend 8–10 lectures in a semester, yet still manage to maintain a 9 CGPA.
 
 
 ## 🌐 Socials:
