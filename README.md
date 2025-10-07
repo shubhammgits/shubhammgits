@@ -1,3 +1,5 @@
+<img src = "/header.png">
+
 # 🐯 About Me:
 Currently learning Machine Learning and enhancing DSA skill. <br>Fun fact about me is that I barely attend 8–10 lectures in a semester, yet still manage to maintain a 9 CGPA.
 
