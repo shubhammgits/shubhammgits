@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey, I am Shubham and I am a Computer Science student specializing in Full Stack development and AIML. <br>I love experimenting with new technologies, optimizing code, and turning ideas into functional, problem solving and user friendly projects.</p>
+<p align="left">Hey, I am Shubham and I am a Computer Science student specializing in Full Stack development and AIML. <br>I love experimenting with new technologies, optimizing code, and turning ideas into functional, problem solving and user friendly projects. Take a look at my work, and if you find it useful, a star on the repository would be much appreciated.:)</p>
 
 ###
 
