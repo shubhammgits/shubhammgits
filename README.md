@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Hey, I am Shubham and I am a Computer Science student specializing in Full Stack development and AIML. <br>I love experimenting with new technologies, optimizing code, and turning ideas into functional, problem solving and user friendly projects.</h4>
+<p align="left">Hey, I am Shubham and I am a Computer Science student specializing in Full Stack development and AIML. <br>I love experimenting with new technologies, optimizing code, and turning ideas into functional, problem solving and user friendly projects.</p>
 
 ###
 
