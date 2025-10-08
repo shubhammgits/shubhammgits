@@ -6,10 +6,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJkaXI3ZmtmeHducGV2cHkxdmN3azJiczdzYzVpaWtvcGFwbWQydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
@@ -105,6 +101,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/shubhammgits/shubhammgits/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -112,14 +110,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhammgits&radius=16&theme=github-dark&area=true&order=5&hide_border=true&custom_title=Activity%20Graph" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhammgits/shubhammgits/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhammgits/shubhammgits/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shubhammgits/shubhammgits/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
@@ -155,5 +145,17 @@
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="200" src=""  />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhammgits/shubhammgits/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhammgits/shubhammgits/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shubhammgits/shubhammgits/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
