@@ -81,15 +81,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhammgits&radius=16&theme=github-dark&area=true&order=5&hide_border=true&custom_title=Activity%20Graph" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/shubhammgits/shubhammgits/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
