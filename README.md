@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJkaXI3ZmtmeHducGV2cHkxdmN3azJiczdzYzVpaWtvcGFwbWQydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
+<h4 align="left">Hey, I am Shubham and I am a Computer Science student specializing in Full Stack development and AIML. <br>I love experimenting with new technologies, optimizing code, and turning ideas into functional, problem solving and user friendly projects.</h4>
 
 ###
 
-<h4 align="left">Hey, I am Shubham and I am a Computer Science student specializing in Full Stack development and AIML. <br>I love experimenting with new technologies, optimizing code, and turning ideas into functional, problem solving and user friendly projects.</h4>
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJkaXI3ZmtmeHducGV2cHkxdmN3azJiczdzYzVpaWtvcGFwbWQydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
 
 ###
 
@@ -141,3 +141,19 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
