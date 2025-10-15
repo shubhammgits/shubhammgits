@@ -61,17 +61,8 @@
   <img width="23" />
 </div>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shubhammgits&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shubhammgits&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammgits&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-###
-
-<h2 align="left">GitHub Stats: </h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhammgits&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=shubhammgits&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=shubhammgits&theme=dracula&column=3&row=1&margin-w=20&margin-h=9&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
