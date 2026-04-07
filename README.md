@@ -7,7 +7,6 @@
 ###
 
 <h2 align="left">Language and Tools</h2>
-# Language and Tools:
 
 ###
 
@@ -61,11 +60,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="23" />
 </div>
-
-
-<h2 align="left">GitHub Stats:</h2>
-![](https://github-readme-stats.vercel.app/api?username=shubhammgits&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shubhammgits&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=shubhammgits&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammgits&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
