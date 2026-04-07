@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">B.Tech CSE student (CGPA: 8.92) with hands-on experience in machine learning, deep learning, and statistical analysis.
+<p align="left">B.Tech 3rd year CSE student (CGPA: 9.0) with hands on experience in machine learning, deep learning, and statistical analysis.
 Trained CNN achieving 97.11% accuracy on 87K+ images and built regression models forecasting multi-billion dollar trends
 (R²=0.85). Completed Data Analyst internship at Alfa Services and Samsung Innovation Campus AI training. Proficient in
 Python, TensorFlow, scikit-learn, pandas, and SQL with experience in end-to-end data science workflows: EDA, feature
