@@ -10,6 +10,4 @@ Hey, I am a Computer Science undergrad with hands-on experience in data analytic
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shubhammgits&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=shubhammgits&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
